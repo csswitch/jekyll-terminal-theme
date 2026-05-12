@@ -1,5 +1,13 @@
 # jekyll-terminal-theme
 
+[![License: csswitch Commercial](https://img.shields.io/badge/license-csswitch%20commercial-blue.svg)](./LICENSE)
+[![Buy on Gumroad](https://img.shields.io/badge/Buy-%2449-brightgreen.svg)](https://csswitch.gumroad.com/l/csswitch-terminal)
+[![Live Demo](https://img.shields.io/badge/demo-live-orange.svg)](https://csswitch.github.io/jekyll-terminal-theme/)
+
+> **⚠️ License notice:** This theme is source-available but **not free to use**.  
+> Viewing and learning from the code is welcome. Deploying it on any live site requires a [paid license](https://csswitch.gumroad.com/l/csswitch-terminal).  
+> See [LICENSE](./LICENSE) for full terms.
+
 > A retro terminal-style Jekyll theme for developer blogs and portfolios. Green phosphor on black, `ls -la` post listings, CRT scanlines — zero paid competition in this aesthetic.
 
 **[Live Demo](https://devshelf.github.io/jekyll-terminal-theme)** · **[Buy on jekyllthemes.io](#)** · **[Buy on Gumroad](#)**
