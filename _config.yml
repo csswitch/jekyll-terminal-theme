@@ -7,8 +7,8 @@
 title: "user@hostname:~"
 tagline: "a terminal-themed jekyll blog"
 description: "Your site description for SEO and the Atom feed."
-url: ""       # e.g. https://yourusername.github.io
-baseurl: ""   # leave empty unless deploying to a subdirectory
+url: "https://csswitch.github.io"       # e.g. https://yourusername.github.io
+baseurl: "/jekyll-terminal-theme"   # leave empty unless deploying to a subdirectory
 
 # ── Terminal look & feel ─────────────────────────────────────
 terminal:
