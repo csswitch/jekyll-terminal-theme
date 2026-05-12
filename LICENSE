@@ -15,54 +15,56 @@ personal, non-commercial project.
 client or commercial project that generates revenue or is used for business
 purposes.
 
-FREE PERMITTED USES
--------------------
-You MAY, without purchasing a license:
-- View, clone, or fork this repository for personal learning and education.
-- Study the code to understand how Jekyll themes are built.
-- Contribute bug fixes or improvements via pull request.
+FREE USE WITH ATTRIBUTION
+--------------------------
+You MAY use this Theme on any personal, non-commercial project for free,
+provided that:
+
+  1. The footer attribution block is kept intact and visible on every page:
+       "Theme by csswitch · Remove attribution →"
+  2. You do not modify or hide the attribution HTML comment or the
+     .csswitch-attr element.
+  3. You do not use the Theme for any commercial or revenue-generating purpose.
+
+PAID LICENSE — REMOVES ATTRIBUTION
+------------------------------------
+By purchasing a license at https://csswitch.gumroad.com you receive:
+
+  - Permission to remove the footer attribution block.
+  - Permission to use the Theme on ONE (1) live project (personal or
+    commercial).
+  - Access to future updates of this Theme.
+  - Private source repository access (collaborator invite).
+
+A separate license must be purchased for each additional project or client.
 
 WHAT REQUIRES A PAID LICENSE
 -----------------------------
-You MUST purchase a license before using this Theme if you intend to:
-- Use the Theme on any live website (personal or commercial).
-- Use the Theme in a project for a client, employer, or third party.
-- Incorporate the Theme into a product or service that is sold or
-  distributed to others.
+You MUST purchase a license if you:
+  - Want to remove the footer attribution.
+  - Use the Theme on a commercial or revenue-generating site.
+  - Use the Theme in a project for a client, employer, or third party.
 
-Purchase a license at: https://csswitch.gumroad.com
-
-LICENSE TERMS (upon purchase)
-------------------------------
-Subject to payment of the applicable license fee, you are granted a
-non-exclusive, non-transferable, perpetual license to:
-- Install and use the Theme on ONE (1) website or project.
-- Modify the Theme source code to fit your needs.
-- Use the Theme in a project for ONE (1) end client.
-
-You MAY NOT:
-- Redistribute, resell, lease, license, sub-license, or offer the Theme
-  to any third party as a standalone product or template.
-- Include the Theme in a "theme bundle" or similar collection for sale.
-- Remove or alter this license notice or copyright attribution.
-- Transfer your license to another person or organisation.
+YOU MAY NOT (with or without a paid license):
+  - Redistribute, resell, lease, sub-license, or offer the Theme
+    to any third party as a standalone product or template.
+  - Include the Theme in a "theme bundle" or collection for resale.
+  - Transfer your license to another person or organisation.
 
 EXTENDED / MULTI-SITE LICENSE
 ------------------------------
-For use on multiple websites or for multiple clients, purchase an Extended
-License at: https://csswitch.gumroad.com
+For use across multiple projects, purchase an Extended License:
+https://csswitch.gumroad.com
 
 DEMO SITES
 ----------
 The live demo at https://csswitch.github.io is provided solely to
-demonstrate the Theme's appearance. Access to the demo does not grant
-any license to use the Theme.
+demonstrate the Theme's appearance and does not grant any license to use it.
 
 DISCLAIMER
 ----------
 THIS THEME IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED. IN NO EVENT SHALL CSSWITCH BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE THEME OR
-THE USE OR OTHER DEALINGS IN THE THEME.
+OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE THEME.
 
 For license inquiries: https://github.com/csswitch
